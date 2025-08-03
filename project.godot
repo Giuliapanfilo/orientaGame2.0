@@ -70,7 +70,7 @@ Interact={
 
 [internationalization]
 
-locale/translations_pot_files=PackedStringArray("res://Dialogues/edge.dialogue", "res://Dialogues/main.dialogue", "res://Dialogues/tuttorial.dialogue", "res://Dialogues/collectibles.dialogue", "res://Dialogues/antonio.dialogue", "res://Dialogue/scena1.dialogue", "res://Dialogue/scena2.dialogue", "res://Dialogue/scena3.dialogue", "res://Dialogue/scena4.dialogue", "res://Dialogue/main.dialogue")
+locale/translations_pot_files=PackedStringArray("res://Dialogues/edge.dialogue", "res://Dialogues/main.dialogue", "res://Dialogues/tuttorial.dialogue", "res://Dialogues/collectibles.dialogue", "res://Dialogues/antonio.dialogue", "res://Dialogues/main (2).dialogue", "res://Dialogues/scena1.dialogue", "res://Dialogues/scena2.dialogue", "res://Dialogues/scena3.dialogue", "res://Dialogues/scena4.dialogue")
 
 [layer_names]
 
