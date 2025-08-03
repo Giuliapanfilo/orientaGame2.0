@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://sxf3s5dcflvs"
+path="res://.godot/imported/collectibles.dialogue-15af0a5affeb15b05b7f4dbf099aefcb.tres"
+
+[deps]
+
+source_file="res://Dialogues/collectibles.dialogue"
+dest_files=["res://.godot/imported/collectibles.dialogue-15af0a5affeb15b05b7f4dbf099aefcb.tres"]
+
+[params]
+
+defaults=true
