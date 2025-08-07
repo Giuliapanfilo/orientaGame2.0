@@ -17,7 +17,7 @@ func swap(destination: PackedScene) -> void:
 	if not destination:
 		push_error("Scena inesistente")
 		return
-	player.can_move = false
+	#player.can_move = false
 	
 	# elimina scena vecchia
 	for c in current_scene.get_children():
@@ -34,7 +34,7 @@ func swap(destination: PackedScene) -> void:
 	else:
 		push_error("Spawner non trovato in ", current_scene.name) 
 	print("swap to ", destination)
-	player.can_move = true
+	#player.can_move = true
 
 
 func get_spawn(scene: Node3D) -> Marker3D:
